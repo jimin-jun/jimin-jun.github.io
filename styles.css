@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
 .styles {
     background-color: rgb(200, 200, 200);
     width: 300px;
@@ -5,7 +7,8 @@
     border-radius: 10px;
     text-align: center;
     padding: 30px 0px 0px 0px;
-    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-	.ns{font-family: 'Noto Serif', serif;
-    }
+}
+
+.ns {
+    font-family: 'Noto Serif', serif;
 }
