@@ -22,20 +22,20 @@ footer{
 }
 .navbar ul{
     list-style-type: none;
-    background-color: gray;
+    background-color: beige;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
 }
 .navbar a{
-    color: white;
+    color: black;
     text-decoration: none;
     padding: 15px;
     display: block;
     text-align: center;
 }
 .navbar a:hover{
-    background-color: beige;
+    background-color: gray;
 }
 .navbar li{
     float: left;
