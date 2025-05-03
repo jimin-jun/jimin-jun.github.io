@@ -35,7 +35,7 @@ footer{
     text-align: center;
 }
 .navbar a:hover{
-    background-color: gray;
+    background-color: bisque;
 }
 .navbar li{
     float: left;
