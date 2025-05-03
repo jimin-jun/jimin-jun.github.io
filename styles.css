@@ -11,7 +11,13 @@
 body{
     margin: 0px;
 }
+header{
+    margin: 40px;
+}
 main{
+    margin: 20px;
+}
+footer{
     margin: 20px;
 }
 .navbar ul{
